@@ -4,7 +4,7 @@
 
 > ### Sobre mim:
 
-- 🕷️ INTJ
+- 🕷️ INTJ / 21 anos
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas
 - 💻 Aspirante a Desenvolvedora Front-End
 - 📬 Email: ewileet@gmail.com
