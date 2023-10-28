@@ -1,12 +1,14 @@
-### Bem-vindo(a) ao meu perfil!
+### Bem-vindo(a) ao meu perfil! 🖤
 
 ##
 
 > ### Sobre mim:
 
-- 🕷️ INTJ / 21 anos
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas
-- 💻 Estudante de Frontend e UX Design
+- 🕷️ 21 anos / INTJ
+- 🌵 Nordestina
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas 3/4
+- 💻 Estagiária de Desenvolvimento Web
+- 🖱️ Aspirante à Dev Frontend
 - 📬 Email: ewileet@gmail.com
 
 ##
