@@ -4,12 +4,9 @@
 
 > ### Sobre mim:
 
-- 🕷️ 21 anos / INTJ
-- 🌵 Nordestina
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas 3/4
+- 🕷️ 22 anos / INTJ
+- 📚 Análise e Desenvolvimento de Sistemas 4/4
 - 💻 Estagiária de Desenvolvimento Web
-- 🖱️ Aspirante à Dev Frontend
-- 📬 Email: ewileet@gmail.com
 
 ##
 
@@ -35,7 +32,7 @@
 > ### Me encontre aqui:
 
 <div>
-  <a href="https://instagram.com/emycinthia" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/emcinth_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/demohvnter" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"/>
   <a href="mail.ewileet@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
   <a href="https://www.linkedin.com/in/emycinthia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
