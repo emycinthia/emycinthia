@@ -27,8 +27,8 @@
   <img align="center" alt="HTML-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TS-logo" height="30" width="40" src="https://static-00.iconduck.com/assets.00/typescript-plain-icon-256x256-ypojgpyj.png">
-  <img align="center" alt="Csharp-logo" height="30" width="40" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png">
+  <img align="center" alt="TS-logo" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
+  <img align="center" alt="Csharp-logo" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
 </div>
 
 ##
