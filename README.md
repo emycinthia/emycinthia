@@ -5,9 +5,10 @@
 > ### Sobre mim:
 
 - 🕷️ 22 anos
-- 🧠 INTJ
+- ♟️ INTJ
 - 🌵 Nordestina
-- 💻 Análise e Desenvolvimento de Sistemas 4/4
+- 🎓 Análise e Desenvolvimento de Sistemas 4/4
+- 💻 Sistemas Para Internet 2/5
 - 💜 Estagiária de Desenvolvimento Web na Cogna 
 
 ##
@@ -29,6 +30,7 @@
   <img align="center" alt="JS-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TS-logo" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
   <img align="center" alt="Csharp-logo" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
+  <img align="center" alt="Angular" height="30" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/angular-icon.png">
 </div>
 
 ##
