@@ -1,19 +1,19 @@
-### Bem-vindo(a) ao meu perfil! 🖤
+### Bem-vinda(o) ao meu perfil! 🖤
 
 ##
 
-> ### Sobre mim:
+> ### 🦷 Sobre mim:
 
-- 🕷️ 22 anos
-- ♟️ INTJ
+- 🕯️ 23 anos
 - 🌵 Nordestina
 - 🎓 Análise e Desenvolvimento de Sistemas 4/4
-- 💻 Sistemas Para Internet 2/5
-- 💜 Estagiária de Desenvolvimento Web na Cogna 
+- 💻 Sistemas Para Internet 3/5
+- 💜 Estagiária de Desenvolvimento Web na Cogna Educação
+- 🎨 Ilustradora nas horas vagas
 
 ##
 
-> ### GitHub:
+> ### 🦷 GitHub:
 <div>
   <a href="https://github.com/emycinthia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emycinthia&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
@@ -22,7 +22,7 @@
 
 ##
   
-> ### Linguagens:
+> ### 🦷 Linguagens:
 
 <div>
   <img align="center" alt="HTML-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -35,7 +35,7 @@
 
 ##
   
-> ### Me encontre aqui:
+> ### 🦷 Me encontre aqui:
 
 <div>
   <a href="https://instagram.com/emcinth_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
