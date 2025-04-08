@@ -1,8 +1,4 @@
-<h1 align="left">Olá! Sou a Emily. 🖤<br>Desenvolvedora Front-End</h1>
-
-###
-
-<img align="right" height="150" src="https://media0.giphy.com/media/OkoScrMcY324r1j1HZ/source.gif"  />
+<h1 align="left">Olá! Sou a Emily, Desenvolvedora Front-End. 🖤</h1>
 
 ###
 
@@ -21,6 +17,10 @@
 ###
 
 <h3 align="left">🪶  Sobre mim:</h3>
+
+###
+
+<img align="right" height="150" src="https://media0.giphy.com/media/OkoScrMcY324r1j1HZ/source.gif"  />
 
 ###
 
