@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">🪶  Sobre mim:</h3>
+<h3 align="left">🦇  Sobre mim:</h3>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">Tecnóloga em Análise e Desenvolvimento de Sistemas e atualmente cursando minha segunda formação, em Sistemas para Internet.<br><br>- 💻 Estagiária de Desenvolvimento Web<br>- 🏹 Atualmente estudando React<br>- 🕯️ Leitora, desenhista e escritora nas horas vagas</p>
+<p align="left">Tecnóloga em Análise e Desenvolvimento de Sistemas e atualmente cursando minha segunda formação, em Sistemas para Internet.<br><br>💻 Estagiária de Desenvolvimento Web<br>🏹 Atualmente estudando React<br>🕯️ Leitora, desenhista e escritora nas horas vagas</p>
 
 ###
 
@@ -54,7 +54,7 @@
 
 ###
 
-<h3 align="left">🐈‍⬛   GitHub:</h3>
+<h3 align="left">🕷️   GitHub:</h3>
 
 ###
 
@@ -65,10 +65,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emycinthia/emycinthia/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emycinthia/emycinthia/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/emycinthia/emycinthia/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/emycinthia/emycinthia/output/snake.svg" alt="Snake animation" />
 
 ###
