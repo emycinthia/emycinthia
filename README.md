@@ -1,4 +1,9 @@
-<h1 align="left">Olá! Sou a Emily, Desenvolvedora Front-End. 🖤</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&descAlign=33&animation=fadeIn&descAlignY=52">
+</div>
+
+<h1 align="center"> Bem-vindo(a) ao meu GitHub! </h1> 
+<p align="center"><i>Desenvolvedora Front-End | Tecnóloga em Análise e Desenvolvimento de Sistemas</i></p>
 
 ###
 
@@ -6,11 +11,14 @@
   <a href="https://www.linkedin.com/in/emycinthia/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="ewileet@gmail.com" target="_blank">
+  <a href="mailto:ewileet@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/emcinth_/#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://wa.me/5582999580411">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="WhatsApp logo" />
   </a>
 </div>
 
@@ -24,15 +32,14 @@
 
 ###
 
-<p align="left">Tecnóloga em Análise e Desenvolvimento de Sistemas e atualmente cursando minha segunda formação, em Sistemas para Internet.<br><br>💻 Estagiária de Desenvolvimento Web<br>🏹 Atualmente estudando React<br>🕯️ Leitora, desenhista e escritora nas horas vagas</p>
+Eu sou a **Emily**, Tecnóloga em **Análise e Desenvolvimento de Sistemas** e atualmente cursando uma segunda formação em **Sistemas para Internet**. Sempre tentando me conectar a experiências e pessoas incríveis que me ajudem a crescer cada vez mais como profissional e pessoa.
+- 💻 Estagiária de Desenvolvimento Web
+- 🏹 Atualmente estudando React
+- 🕯️ Leitora, desenhista e escritora nas horas vagas
 
 ###
 
-<h3 align="left">⛓️ Linguagens e ferramentas:</h3>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -54,13 +61,21 @@
 
 ###
 
-<h3 align="left">🕷️   GitHub:</h3>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emycinthia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&custom_title=Estat%C3%ADsticas" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emycinthia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2&custom_title=Linguagens" height="150" alt="languages graph"  />
 </div>
 
 ###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emycinthia/emycinthia/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emycinthia/emycinthia/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/emycinthia/emycinthia/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&descAlign=33&animation=fadeIn&descAlignY=52&section=footer">
+</div>
