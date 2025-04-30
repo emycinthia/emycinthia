@@ -20,6 +20,12 @@
   <a href="https://wa.me/5582999580411">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="WhatsApp logo" />
   </a>
+  <a href="https://www.behance.net/emilycinthia" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
+  </a>
+</div>
+
+###
 </div>
 
 ###
@@ -35,7 +41,8 @@
 Eu sou a **Emily**, Tecnóloga em **Análise e Desenvolvimento de Sistemas** e atualmente cursando uma segunda formação em **Sistemas para Internet**. Sempre tentando me conectar a experiências e pessoas incríveis que me ajudem a crescer cada vez mais como profissional e pessoa.
 - 💻 Estagiária de Desenvolvimento Web
 - 🏹 Atualmente estudando React
-- 🕯️ Leitora, desenhista e escritora nas horas vagas
+- 🖋️ Desenhista/ilustradora freelancer (<a href="https://www.instagram.com/metornearte/#" target="_blank">**@metornearte**</a> & <a href="https://www.behance.net/emilycinthia" target="_blank">bēhance</a>)
+- 🕯️ Leitora e escritora por diversão
 
 ###
 
