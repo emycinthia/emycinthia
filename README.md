@@ -38,16 +38,17 @@
 
 ###
 
-Sou a **Emily**, Tecnóloga em **Análise e Desenvolvimento de Sistemas** com foco em desenvolvimento front-end. Iniciei minha trajetória profissional como estagiária de desenvolvimento web e sigo em constante aprendizado, buscando novas oportunidades para aplicar e expandir meus conhecimentos.
+Sou a **Emily**, Tecnóloga em **Análise e Desenvolvimento de Sistemas**.
+Iniciei minha trajetória profissional como estagiária de desenvolvimento web e sigo em constante aprendizado, buscando novas oportunidades para aplicar e expandir meus conhecimentos.
 
-Tenho sólida base em **HTML**, **CSS**, **JavaScript**, **Angular** e atualmente aprofundo meus estudos em **React**, buscando aprimorar minhas habilidades em **integração com APIs**, **responsividade** e **boas práticas de UI/UX**. Meu objetivo é contribuir para projetos que unam tecnologia, criatividade e impacto positivo para o usuário.
+Tenho base sólida em **HTML**, **CSS**, **JavaScript**, e conhecimentos em **Angular**. Atualmente, estou estudando **React** e aprimorando minhas habilidades em **integração com APIs**, **responsividade** e **boas práticas de UI/UX**. Meu objetivo é contribuir para projetos que unam tecnologia, criatividade e impacto positivo para o usuário.
 
 Além do universo tech, atuo como desenhista freelancer, o que me proporciona um olhar artístico e atento aos detalhes, competências que aplico no design e na experiência do usuário.
 
 - 💻 Desenvolvimento Front-end
 - 🏹 Estudando React e aprofundando boas práticas de UI/UX
 - 🖋️ Desenhista freelancer (<a href="https://www.instagram.com/metornearte/#" target="_blank">**@metornearte**</a> & <a href="https://www.behance.net/emilycinthia" target="_blank">bēhance</a>)
-- 🕯️ Leitora e escritora por diversão
+- 🕯️ Leitora por diversão
 
 ###
 
