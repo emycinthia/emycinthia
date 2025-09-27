@@ -20,7 +20,7 @@
   <a href="https://wa.me/5582999580411">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="WhatsApp logo" />
   </a>
-  <a href="https://www.behance.net/emilycinthia" target="_blank">
+  <a href="https://www.behance.net/metornearte" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
   </a>
 </div>
@@ -47,7 +47,7 @@ Além do universo tech, atuo como desenhista freelancer, o que me proporciona um
 
 - 💻 Desenvolvimento Front-end
 - 🏹 Estudando React e aprofundando boas práticas de UI/UX
-- 🖋️ Desenhista freelancer (<a href="https://www.instagram.com/metornearte/#" target="_blank">**@metornearte**</a> & <a href="https://www.behance.net/emilycinthia" target="_blank">bēhance</a>)
+- 🖋️ Desenhista freelancer (<a href="https://www.instagram.com/metornearte/#" target="_blank">**Instagram**</a> & <a href="https://www.behance.net/metornearte" target="_blank">Bēhance</a>)
 - 🕯️ Leitora por diversão
 
 ###
